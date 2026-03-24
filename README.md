@@ -1,6 +1,6 @@
 # <img src="https://www.waifu.im/favicon.png" width="28" style="vertical-align:middle;" /> waifu_im.py
 
-> API wrapper for [waifu.im](https://waifu.im) — browse and manage an archive of 4000+ anime images with tag filtering, NSFW support, and personal favourites.
+> Web-API for [waifu.im](https://waifu.im) browse and manage an archive of 4000+ anime images with tag filtering, NSFW support, and personal favourites.
 
 ## Quick Start
 ```python
